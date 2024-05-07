@@ -27,5 +27,7 @@ public:
 };
 
 int main(){
-
+    persegiPanjang pp;
+    segitiga sg;
+  
 }

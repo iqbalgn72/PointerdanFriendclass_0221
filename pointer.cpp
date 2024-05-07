@@ -29,5 +29,5 @@ public:
 int main(){
     persegiPanjang pp;
     segitiga sg;
-  
+    cout << "Masukan Panjang : ";
 }
